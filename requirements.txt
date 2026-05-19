@@ -12,3 +12,5 @@ langchain-community
 langgraph
 sqlalchemy
 pymysql
+pypdf
+wikipedia
