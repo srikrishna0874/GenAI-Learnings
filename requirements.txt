@@ -1,0 +1,14 @@
+ipykernel
+dotenv
+langchain
+langchain-openai
+langchain[google-genai]
+langchain_core
+streamlit
+ollama
+langchain-ollama
+langchain-groq
+langchain-community
+langgraph
+sqlalchemy
+pymysql
